@@ -179,15 +179,3 @@ This project was developed for educational purposes to learn Selenium WebDriver 
 This project is intended for educational and portfolio purposes.
 
 ---
-
-## 👨‍💻 Author
-
-**Kiruba Sagar**
-
-- Python Developer
-- Data Science Enthusiast
-- Machine Learning Enthusiast
-
-**GitHub:** https://github.com/yourusername
-
-**LinkedIn:** https://linkedin.com/in/yourprofile
